@@ -1,0 +1,2 @@
+git config --global user.email "rml128+github@gmail.com"
+  git config --global user.name "iwakunibob"
