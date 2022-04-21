@@ -6,7 +6,7 @@ My name is Bob and I live at Yuu-cho Iwakuni-shi, Yamaguchi-ken, JAPAN.
 
 It is a Japan countryside place and I my apartment is surrounded by rice paddies. 
 
-![back view](1-BackWindowView.JPG)
+![back view](6-YuuUpperRoad.JPG)
 
 There is something reassuring about being surrounded by food in these troubled times.
 
