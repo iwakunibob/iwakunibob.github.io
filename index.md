@@ -9,3 +9,5 @@ It is a Japan countryside place and I my apartment is surrounded by rice paddies
 ![back view](1-BackWindowView.JPG)
 
 There is something reassuring about being surrounded by food in these troubled times.
+
+Here is a link to my [photo album](https://iwakunibob.github.io/photos/) 
